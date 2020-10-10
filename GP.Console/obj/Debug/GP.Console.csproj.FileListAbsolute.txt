@@ -1,0 +1,17 @@
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Console.exe.config
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Console.exe
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Console.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Domain.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Domain.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\obj\Debug\GP.Console.csprojAssemblyReference.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\obj\Debug\GP.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\obj\Debug\GP.Console.csproj.CopyComplete
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\obj\Debug\GP.Console.exe
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\obj\Debug\GP.Console.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\EntityFramework.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Data.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Data.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\GP.Data.dll.config
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\EntityFramework.xml
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Console\bin\Debug\EntityFramework.SqlServer.xml

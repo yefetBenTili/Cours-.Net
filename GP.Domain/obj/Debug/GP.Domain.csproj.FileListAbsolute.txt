@@ -1,0 +1,6 @@
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\bin\Debug\GP.Domain.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\bin\Debug\GP.Domain.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\obj\Debug\GP.Domain.csprojAssemblyReference.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\obj\Debug\GP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\obj\Debug\GP.Domain.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Domain\obj\Debug\GP.Domain.pdb

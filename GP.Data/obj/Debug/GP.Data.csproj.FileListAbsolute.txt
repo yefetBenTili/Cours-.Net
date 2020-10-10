@@ -1,0 +1,14 @@
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\GP.Data.dll.config
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\GP.Data.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\GP.Data.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\GP.Domain.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\GP.Domain.pdb
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\obj\Debug\GP.Data.csprojAssemblyReference.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\obj\Debug\GP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\obj\Debug\GP.Data.csproj.CopyComplete
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\obj\Debug\GP.Data.dll
+C:\Users\Sadek\Desktop\Cours\.NET\TP\TP1\GestionProduits\GP.Data\obj\Debug\GP.Data.pdb
